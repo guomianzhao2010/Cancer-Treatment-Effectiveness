@@ -5,10 +5,16 @@ In their most recent study, 250 mice were treated through a variety of drug regi
 In addition to routine data cleaning and consolidation using Pandas, I also used Matplotlib to create the following 4 charts:
 
 A scatter plot that shows how the tumor volume changes over time for each treatment.
+![figure1](Plt1.png)
+
 
 A scatter plot that shows how the number of metastatic (cancer spreading) sites changes over time for each treatment.
+![figure1](Plt2.png)
+
 
 A scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate).
+![figure1](Plt3.png)
+
 
 A bar graph that compares the total % tumor volume change for each drug across the full 45 days.
-
+![figure1](Plt4.png)
